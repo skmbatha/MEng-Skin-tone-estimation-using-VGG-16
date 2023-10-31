@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1664448162 source:c:\users\katlego.mbatha\desktop\learning\advanced c\dynamiclist\dynamic_llst.c
+	<stdio.h>
+	<stdlib.h>
+	"dynamic_list.h"
+
+1664447551 c:\users\katlego.mbatha\desktop\learning\advanced c\dynamiclist\dynamic_list.h
+

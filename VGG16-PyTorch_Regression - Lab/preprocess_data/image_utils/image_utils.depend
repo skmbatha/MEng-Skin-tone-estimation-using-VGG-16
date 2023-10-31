@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691327793 source:c:\users\22218521\desktop\katlego mbatha\cnn_training_models\vgg16-pytorch_regression - lab\preprocess_data\image_utils\main.c
+	<stdio.h>
+	<stdlib.h>
+

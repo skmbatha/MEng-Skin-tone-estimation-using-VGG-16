@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1691327793 source:c:\users\22218521\desktop\katlego mbatha\cnn_training_models\vgg16-pytorch_regression - lab\preprocess_data\image_utils\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1692393774 source:c:\users\22218521\desktop\katlego mbatha\cnn_training_models\vgg16-pytorch_regression - rgb,lab,hsv\preprocess_data\image_utils\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"./DynamicList/dynamic_list.h"
+	"./Headers/typedefs.h"
+
+1692394589 c:\users\22218521\desktop\katlego mbatha\cnn_training_models\vgg16-pytorch_regression - rgb,lab,hsv\preprocess_data\image_utils\dynamiclist\dynamic_list.h
+	"../Headers/typedefs.h"
+	"../Headers/commons.h"
+
+1692300455 c:\users\22218521\desktop\katlego mbatha\cnn_training_models\vgg16-pytorch_regression - rgb,lab,hsv\preprocess_data\image_utils\headers\typedefs.h
+	<stdio.h>
+	<stdlib.h>
+
+1692305361 c:\users\22218521\desktop\katlego mbatha\cnn_training_models\vgg16-pytorch_regression - rgb,lab,hsv\preprocess_data\image_utils\headers\commons.h
+	<stdio.h>
+	<stdlib.h>
+
+1692393551 source:c:\users\22218521\desktop\katlego mbatha\cnn_training_models\vgg16-pytorch_regression - rgb,lab,hsv\preprocess_data\image_utils\dynamiclist\dynamic_llst.c
+	<stdio.h>
+	<stdlib.h>
+	"dynamic_list.h"
+
